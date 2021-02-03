@@ -137,3 +137,20 @@ form legend {
   transition: 400ms all;
   transform: scale(1.1);
 }
+
+table {
+  margin: 20px 0 40px;
+}
+
+thead {
+  background: rgb(58, 54, 54);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 15px 10px;
+}
