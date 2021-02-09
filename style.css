@@ -154,3 +154,42 @@ th {
   border: 1px solid black;
   padding: 15px 10px;
 }
+
+/* css da pagina iniciaal */
+
+.banner {
+  width: 100%;
+}
+
+.titulo-principal {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0 0 1em;
+  clear: left;
+}
+.principal p {
+  margin: 0 0 1em;
+}
+
+.principal strong {
+  font-weight: bold;
+}
+
+.principal em {
+  font-style: italic;
+}
+
+.utensilios {
+  width: 120px;
+  float: left;
+  margin: 0 20px 20px 10px;
+}
+
+.imgbeneficios {
+  width: 50%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
