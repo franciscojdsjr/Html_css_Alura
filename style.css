@@ -168,6 +168,14 @@ th {
   margin: 0 0 1em;
   clear: left;
 }
+
+.principal {
+  padding: 3em 0;
+  background: #fefefe;
+  width: 940px;
+  margin: 0 auto;
+}
+
 .principal p {
   margin: 0 0 1em;
 }
@@ -188,6 +196,15 @@ th {
 .mapa p {
   margin: 0 0 2em;
   text-align: center;
+}
+
+.mapa-conteudo {
+  width: 940px;
+  margin: 0 auto;
+}
+.beneficios {
+  padding: 3em 0;
+  background: #888888;
 }
 
 .conteudo-beneficios {
@@ -218,6 +235,7 @@ body {
 }
 .mapa {
   padding: 3em 0;
+  background: linear-gradient(#fefefe, #888888);
 }
 
 .video {
